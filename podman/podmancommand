@@ -1,0 +1,3 @@
+podman run -it --ipc host --network host -v /home/renzi/:/work/project/ -v /mnt/ssd2/renzi:/mnt/ssd2/renzi --device nvidia.com/gpu=all --ipc host docker.io/renzipaolo/cachyosdiagh.dockerfile:latest
+podman run -v /home/renzi/:/work/project/ --device nvidia.com/gpu=all --ipc host docker.io/claudioschi21/thesis_alcor_cuda11.8:latest /usr/bin/python3 /work/project/training/training_classification.py
+

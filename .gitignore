@@ -1,0 +1,17 @@
+dataset/__pycache__
+models/__pycache__
+training/__pycache__
+output
+models/classification/__pycache__
+models/segmentation/__pycache__
+models/anomalyDetection/__pycache__
+
+memory.pickle
+training_runs_cnn
+training_runs_lcnn
+training_runs_cnn_simp
+data
+results/
+logs
+mnist
+last_bbox_visualization.png

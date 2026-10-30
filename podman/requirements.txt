@@ -1,0 +1,17 @@
+zarr
+torch
+torchvision
+timm 
+spikingjelly
+apex
+tqdm
+einops
+cupy-cuda13x
+scikit-learn
+PrettyTable
+tensorboard
+torchviz
+seaborn
+matplotlib
+norse
+piq

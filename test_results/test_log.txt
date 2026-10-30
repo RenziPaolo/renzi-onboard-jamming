@@ -1,0 +1,5 @@
+Test Loss: 1.6423, Test IoU: 0.0000, Test CIoU: -0.5283, Test DIoU: 0.0000
+Test Loss: 1.6403, Test IoU: 0.0000, Test CIoU: -0.5287, Test DIoU: 0.0000
+Test Loss: 1.6404, Test IoU: 0.0000, Test CIoU: -0.5282, Test DIoU: 0.0000
+Test Loss: 1.6434, Test IoU: 0.0000, Test CIoU: -0.5281, Test DIoU: 0.0000
+Test Loss: 1.6699, Test IoU: 0.0000, Test CIoU: -0.5819, Test DIoU: 0.0000
